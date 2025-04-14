@@ -1,0 +1,13 @@
+{
+	"Sudo": "gsudo",
+	"Distribution": "Ubuntu-24.04",
+	"User": "ubuntu",
+	"Devices": [
+		{
+			"DeviceId": "1",
+			"Label": "Work",
+			"MountPoint": "/home/ubuntu/Backup",
+			"Sentinel": "Workspace"
+		}
+	]
+}
